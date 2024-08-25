@@ -1,0 +1,13 @@
+body{
+    color:antiquewhite;
+    background: rebeccapurple;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(140, 93, 190);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(212, 207, 220);
+    
+}
